@@ -56,3 +56,6 @@ Alguns dos sites possuem a necessidade de escrever duas vezes o e-mail ou a senh
 * Cidade
 * Estado
 * Bairro
+
+# Formulário construído
+<img src="img/formularioimg.png">
